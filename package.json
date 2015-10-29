@@ -1,0 +1,10 @@
+{
+  "name": "ng-edit",
+  "version": "0.0.1",
+  "description": "Edit in place for AngularJS",
+  "author": "Nathan Bellette",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
